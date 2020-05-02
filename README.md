@@ -1,1 +1,7 @@
-Sistema de Pizzaria utilizando HTML, CSS E Javascript
+# Sistema de Pizzaria
+
+# Sistema de Pizzaria utilizando:
+
+  - HTML
+  - CSS
+  - Javascript
